@@ -1,0 +1,17 @@
+{
+    "name": "aleksei_sokolov/todo",
+    "description": "todo API",
+    "type": "library",
+    "authors": [
+        {
+            "name": "nordicbook",
+            "email": "aleksei.sokolov.85@mail.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Todo\\": "app"
+        }
+    }
+}
