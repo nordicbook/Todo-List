@@ -1,5 +1,7 @@
 <?php
 
+echo "Привет, Мир!";
+
 require 'vendor/autoload.php';
 
 use Todo\Models\Task;
